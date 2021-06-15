@@ -1,0 +1,8 @@
+D:\Projek Programming\login UI modern\login UI modern\bin\Debug\login UI modern.exe
+D:\Projek Programming\login UI modern\login UI modern\bin\Debug\login UI modern.pdb
+D:\Projek Programming\login UI modern\login UI modern\obj\x86\Debug\login_UI_modern.Form1.resources
+D:\Projek Programming\login UI modern\login UI modern\obj\x86\Debug\login_UI_modern.Properties.Resources.resources
+D:\Projek Programming\login UI modern\login UI modern\obj\x86\Debug\login UI modern.csproj.GenerateResource.Cache
+D:\Projek Programming\login UI modern\login UI modern\obj\x86\Debug\login UI modern.exe
+D:\Projek Programming\login UI modern\login UI modern\obj\x86\Debug\login UI modern.pdb
+D:\Projek Programming\login UI modern\login UI modern\obj\x86\Debug\login UI modern.csprojResolveAssemblyReference.cache
